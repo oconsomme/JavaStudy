@@ -1,9 +1,0 @@
-package 도서관리프로그램;
-
-public class BookDAO {
-	
-	// 데이터베이스에 접근해서 도서등록에 필요한 데이터들을 저장
-	public void insert(BookVO vo) {
-		
-	}
-}

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;ex03for.Ex03for&apos; to &apos;Ex01for&apos;&#x0D;&#x0A;- Original project: &apos;Ex03반복문&apos;&#x0D;&#x0A;- Original element: &apos;ex03for.Ex03for&apos;&#x0D;&#x0A;- Renamed element: &apos;ex03for.Ex01for&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Ex03for&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ex03for{Ex03for.java[Ex03for" matchStrategy="1" name="Ex01for" qualified="false" references="true" similarDeclarations="false" stamp="1686713016311" textual="false" version="1.0"/>
-</session>
