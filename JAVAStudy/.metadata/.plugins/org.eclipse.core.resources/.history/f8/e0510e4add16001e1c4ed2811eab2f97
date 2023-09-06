@@ -1,0 +1,25 @@
+package 도서관리프로그램;
+
+public class BookVO {
+	
+	// 필드
+	// 제목, 저자, 가격, 번호
+	private String title;
+	private String name;
+	private int price;
+	private String num;
+	public String getTitle() {
+		return title;
+	}
+	public String getName() {
+		return name;
+	}
+	public int getPrice() {
+		return price;
+	}
+	public String getNum() {
+		return num;
+	}
+	
+	
+}

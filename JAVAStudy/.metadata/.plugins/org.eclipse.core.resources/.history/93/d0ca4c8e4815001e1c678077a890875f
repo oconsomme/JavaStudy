@@ -1,0 +1,14 @@
+package 문제;
+
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		System.out.println("=========================학생 관리 프로그램=========================");
+		Scanner sc = new Scanner(System.in);
+		while(true) {
+			System.out.print("[1]성적입력[2]전체조회[3]학생검색[4]프로그램 종료 >> ");
+		}
+	}
+	
+}

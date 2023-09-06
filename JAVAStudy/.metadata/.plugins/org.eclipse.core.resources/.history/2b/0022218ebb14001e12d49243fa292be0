@@ -1,0 +1,12 @@
+package 월급계산프로그램;
+
+public class PartTimeEmployee extends Employee{
+	int workDay;
+
+	@Override
+	public int getMoneyPay() {
+		return pay*workDay;
+	}
+	
+	
+}

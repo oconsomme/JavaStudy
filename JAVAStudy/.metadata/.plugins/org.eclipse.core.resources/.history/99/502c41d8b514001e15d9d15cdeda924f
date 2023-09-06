@@ -1,0 +1,6 @@
+package 월급계산프로그램;
+
+public class RegularEmployee extends Employee{
+	int bonus;
+	
+}

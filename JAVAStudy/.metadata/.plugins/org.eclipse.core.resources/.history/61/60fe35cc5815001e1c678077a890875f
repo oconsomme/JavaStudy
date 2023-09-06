@@ -1,0 +1,17 @@
+package 추상메서드;
+
+public class 펭귄 extends 조류{
+
+	@Override
+	public void cry() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void move() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

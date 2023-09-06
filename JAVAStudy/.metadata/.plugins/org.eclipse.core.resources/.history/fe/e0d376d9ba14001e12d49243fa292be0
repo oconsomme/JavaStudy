@@ -1,0 +1,18 @@
+package 월급계산프로그램;
+
+public class Main {
+
+	public static void main(String[] args) {
+		RegularEmployee re1 = new RegularEmployee();
+		re1.regular("SMHRD001", "박문수", 250 ,400);
+		System.out.println(re1.print());
+		
+		TempEmployee te1 = new TempEmployee();
+		
+		
+		PartTimeEmployee pte1 = new PartTimeEmployee();
+		
+
+	}
+
+}

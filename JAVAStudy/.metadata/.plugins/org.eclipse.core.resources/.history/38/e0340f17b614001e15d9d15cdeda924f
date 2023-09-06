@@ -1,0 +1,10 @@
+package 월급계산프로그램;
+
+public class RegularEmployee extends Employee{
+	int bonus;
+	
+	public void regular() {
+		System.out.println(empno+" : "+name+" : "+pay);
+	}
+	
+}

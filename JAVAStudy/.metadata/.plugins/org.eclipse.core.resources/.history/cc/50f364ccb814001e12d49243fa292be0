@@ -1,0 +1,24 @@
+package 월급계산프로그램;
+
+public class RegularEmployee extends Employee{
+	int bonus;
+	
+	public void regular(String empno, String name, int pay, int bonus) {
+		empno = "SMHRD01";
+		name = "홍길동";
+		pay = 4000;
+		bonus = 400;
+	}
+	
+	public void regular(String empno, String name, int pay) {
+		print();
+		getMoneyPay();
+		System.out.print("만원");
+	}
+	
+	@Override
+	public int getMoneyPay() {
+		return (pay+bonus)/12;
+	}
+
+}

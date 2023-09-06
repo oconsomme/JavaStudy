@@ -1,0 +1,17 @@
+package ex01상속;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Animal a = new Animal();
+		a.swimming();
+		
+		Cat c = new Cat();
+		c.swimming();
+		c.grooming();
+		
+	
+	}
+
+}
